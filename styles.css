@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(24, 24, 24);
+    color: white;
+    font-size: 18pt;
+}
+
+#random-name-button {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.delete-button {
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+    border-color: white;
+}
