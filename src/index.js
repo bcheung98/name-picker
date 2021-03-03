@@ -1,4 +1,4 @@
-let names = ["Brian", "Danny", "Diana", "Evan", "Kai", "Larry", "Lorraine", "Nahum", "Nick F.", "Nick K.", "Orlando", "Quentin", "Roman", "Soob"];
+let names = ["Brian", "Daniel", "Diana", "Evan", "Kai", "Larry", "Lorraine", "Nahum", "Nick F.", "Nick K.", "Orlando", "Quentin", "Roman", "Soob"];
 
 let nameDropdown = document.getElementById("name-dropdown");
 
